@@ -131,7 +131,7 @@ img {
 @media (max-width: 768px) {
 
     .container {
-        width: 768px;
+        width: 100%;
     }
 
 }
@@ -139,7 +139,7 @@ img {
 @media (max-width: 480px) {
 
     .container{
-        width: 480px;
+        width: 100%;
     }
 
     .lessons .col, .steps .col {
